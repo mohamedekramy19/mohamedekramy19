@@ -2,7 +2,7 @@
 
 ###
 
-<h3 align="left">data scientist r</h3>
+<h3 align="left">data scientist </h3>
 
 ###
 
